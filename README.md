@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3653fea9-a08f-4e71-a11b-9c6e10f152c1)# Linux-IPC-Semaphores
+# Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
 # AIM:
